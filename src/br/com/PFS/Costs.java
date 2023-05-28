@@ -16,7 +16,6 @@ public class Costs {
 	// Constructor
 	
 	public Costs(String name, double value) {
-		super();
 		this.name = name;
 		this.value = value;
 	}
